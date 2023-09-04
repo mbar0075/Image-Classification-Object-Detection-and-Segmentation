@@ -1,0 +1,15 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+@EXPLICIT
+https://conda.anaconda.org/conda-forge/win-64/ucrt-10.0.22621.0-h57928b3_0.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/vc14_runtime-14.36.32532-hfdfe4a8_17.conda
+https://conda.anaconda.org/conda-forge/win-64/vc-14.3-h64f974e_17.conda
+https://conda.anaconda.org/conda-forge/win-64/vs2015_runtime-14.36.32532-h05e6639_17.conda
+https://conda.anaconda.org/conda-forge/win-64/python-3.6.12-h39d44d4_0_cpython.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/python_abi-3.6-2_cp36m.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/wheel-0.36.2-pyhd3deb0d_0.tar.bz2
+https://conda.anaconda.org/conda-forge/noarch/wincertstore-0.2-pyhd8ed1ab_1009.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/certifi-2021.5.30-py36ha15d459_0.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/setuptools-49.6.0-py36ha15d459_3.tar.bz2
+https://conda.anaconda.org/conda-forge/win-64/pip-20.0.2-py36_1.tar.bz2
