@@ -1,6 +1,6 @@
 # Image Classification, Object Detection and Segmentation
 
-This repository contains applications of state-of-the-art models for both image classification and object detection.
+This repository contains applications of state-of-the-art models for Image Classification, Object Detection and Segmentation.
 
 ## Table of Contents
 - [Image Classification, Object Detection and Segmentation](#image-classification-object-detection-and-segmentation)
@@ -57,7 +57,7 @@ Mask R-CNN is a deep learning model for object detection and instance segmentati
 ## Usage
 To run the code, first clone the repository:
 ```bash
-git clone https://github.com/mbar0075/Image-Classification-and-Object-Detection.git
+git clone https://github.com/mbar0075/Image-Classification-Object-Detection-and-Segmentation.git
 ```
 
 Then, create the following environments:
